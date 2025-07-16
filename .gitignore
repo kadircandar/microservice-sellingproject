@@ -378,5 +378,3 @@ FodyWeavers.xsd
 /src/Services/BasketService/BasketService.Api/appsettings.Development.json
 /src/ApiGateways/WebApiGateway/Web.ApiGateway/appsettings.json
 /src/ApiGateways/WebApiGateway/Web.ApiGateway/appsettings.Development.json
-/WebApplication1/appsettings.json
-/WebApplication1/appsettings.Development.json
